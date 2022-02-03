@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SShekarriz website"
+title                    : "Shahrokh Shekarriz"
 title_separator          : "-"
 subtitle                 : "sshekarriz.github.io" #site tagline that appears below site title in masthead
 name                     : "Sharok Shekarriz"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sharok Shekarriz"
+  name             : "Sharok Shekarriz, MSc"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This page is under **construction**. Please visit later ok?"
+  bio              : "Ph.D. candiate at mcmaster university and Bioinformatician in @ednatec"
   location         :  #ssome location
   email            : "shekas3@mcmaster.ca"
   links:
@@ -113,10 +113,10 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://sshekarriz.github.io"
+       url: "https://sshekarriz.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/SharokShekarriz"
+       url: "https://twitter.com/SharokShekarriz"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
