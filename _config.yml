@@ -23,10 +23,10 @@ name                     : "Sharok Shekarriz"
 description              : "Sharok's personal website"
 url                      : "https://sshekarriz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : #"SShekarriz/sshekarriz.github.io" #GitHubusername/repo-name e.g."mmistakes/minimal-mistakes"
+repository               : #GitHubusername/repo-name e.g."mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Shahrokh Shekarriz" #overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : #overrides the website title displayed in the masthead, use " " for no title
   #breadcrumbs            : "false" # true, false (default)
 words_per_minute         : 200
 comments:
@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "SharokShekarriz"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -105,7 +105,7 @@ author:
   name             : "Sharok Shekarriz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This page is under **construction**. Please visit later ok?"
-  location         : "1280 Main Street W, Hamilton, ON L8S 4K1" #ssome location
+  location         :  #ssome location
   email            : "shekas3@mcmaster.ca"
   links:
     - label: "Email"
@@ -113,16 +113,16 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://sshekarriz.github.io"
+      # url: "https://sshekarriz.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/SharokShekarriz"
+      # url: "https://twitter.com/SharokShekarriz"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/SShekarriz"
+      # url: "https://github.com/SShekarriz"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
