@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "Sharok Shekarriz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"Ph.D. candiate at mcmaster university and Bioinformatician in @ednatec"
-  location         :  #ssome location
-  email            : #"shekas3@mcmaster.ca"
+  bio              : "Some info" #"Ph.D. candiate at mcmaster university and Bioinformatician in @ednatec"
+  location         : "Home"
+  email            : "shekas3@mcmaster.ca"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
