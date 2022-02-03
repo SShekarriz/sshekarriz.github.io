@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "This page is under **construction**. Please visit later"
   location         : "Somewhere"
-  email            :
+  email            : "shekas3@mcmaster.ca"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
