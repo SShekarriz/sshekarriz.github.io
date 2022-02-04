@@ -111,9 +111,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sshekarriz.github.io/"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://sshekarriz.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/SharokShekarriz"
@@ -129,6 +129,10 @@ author:
     - label: "McMaster University"
       icon: "fas fa-fw fa-link"
       url: "https://www.mcmaster.ca/"
+    - label: "eDNAtec"
+      icon: "fas fa-fw fa-link"
+      url: "https://ednatec.com/"
+      
 
 # Site Footer
 footer:
