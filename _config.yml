@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Sharok Shekarriz"
   avatar           : "/assets/images/bio_image.jpeg"
-  bio              : "Ph.D. Candidate at McMaster University and Bioinformatician @eDNAtec"
+  bio              : "Ph.D. Candidate at Surette lab in McMaster University and Bioinformatician @eDNAtec"
   location         : "Hamilton, ON, Canada"
   email            : "shekas3@mcmaster.ca"
   links:
@@ -126,6 +126,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Surette Laboratory"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.surettelab.ca/"
     - label: "McMaster University"
       icon: "fas fa-fw fa-link"
       url: "https://www.mcmaster.ca/"
