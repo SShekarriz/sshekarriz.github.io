@@ -103,13 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "Sharok Shekarriz"
-<<<<<<< HEAD
   avatar           : "/assets/images/bio_image.png"
   bio              : "Ph.D. Candidate at McMaster University and Bioinformatician @eDNAtec"
-=======
-  avatar           : "/assets/images/bio_image.jpeg"
-  bio              : "Ph.D. Candidate at McMaster University and Bioinformatician @ednatec"
->>>>>>> 337c1fa80c66abb9e03f73bd906b2c0b7184e420
   location         : "Hamilton, ON, Canada"
   email            : "shekas3@mcmaster.ca"
   links:
