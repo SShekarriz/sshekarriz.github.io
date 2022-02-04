@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Shahrokh Shekarriz"
 title_separator          : "-"
 subtitle                 : "sshekarriz.github.io" #site tagline that appears below site title in masthead
-name                     : "Sharok Shekarriz"
+name                     : "Shahrokh Shekarriz"
 description              : "Sharok's personal website"
 url                      : "https://sshekarriz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Sharok Shekarriz"
   avatar           : "/assets/images/bio_image.png"
-  bio              : "Ph.D. Candidate at McMaster University and Bioinformatician @ednatec"
+  bio              : "Ph.D. Candidate at McMaster University and Bioinformatician @eDNAtec"
   location         : "Hamilton, ON, Canada"
   email            : "shekas3@mcmaster.ca"
   links:
@@ -126,6 +126,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "McMaster University"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.mcmaster.ca/"
+    - label: "eDNAtec company"
+      icon: "fas fa-fw fa-link"
+      url: "https://ednatec.com/"
 
 # Site Footer
 footer:
