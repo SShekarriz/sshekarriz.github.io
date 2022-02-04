@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Sharok Shekarriz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Some info" #"Ph.D. candiate at mcmaster university and Bioinformatician in @ednatec"
-  location         : "Home"
+  bio              : "Ph.D. candiate at mcmaster university and Bioinformatician in ednatec"
+  location         : "Hamilton, Ontario"
   email            : "shekas3@mcmaster.ca"
   links:
     - label: "Email"
