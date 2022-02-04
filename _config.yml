@@ -126,6 +126,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "McMaster University"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.mcmaster.ca/"
 
 # Site Footer
 footer:
