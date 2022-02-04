@@ -104,7 +104,11 @@ analytics:
 author:
   name             : "Sharok Shekarriz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate at McMaster University and Bioinformatician in @ednatec"
+  bio              : "Ph.D. Candidate at McMaster University"
+  links:
+    - label: "Bioinformatician in ednatec"
+      icon: "fas fa-fw fa-link"
+      url: "https://ednatec.com/"
   location         : "Hamilton, Ontario"
   email            : "shekas3@mcmaster.ca"
   links:
