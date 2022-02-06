@@ -7,7 +7,7 @@ header:
   overlay_image:
 ---
 
-<font size="+2">Short Bio</font>
+## Short Bio
 I am a 4th year Ph.D. student in the [Surette laboratory](https://www.surettelab.ca/) at McMaster University. 
 My Ph.D. focuses on developing a culture-enriched metagenomic approach to study intestinal microbiota in healthy individuals 
 and patients with ulcerative colitis. I am also a part-time bioinformatics consultant for [eDNAtec](https://ednatec.com/), 
