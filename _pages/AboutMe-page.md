@@ -14,4 +14,6 @@ In December 2016, I joined [Michael Surette's](https://www.surettelab.ca/) lab a
 
 Besides my Ph.D. studies, I have been a part-time bioinformatics consultant for [eDNAtec](https://ednatec.com/) company since Jan 2019. I've developed a metagenomic pipeline to evaluate deep ocean samples' functional and taxonomic composition for different environmental genomics applications. Also, I developed bioinformatics pipelines to detect SARS-COV-2 from environmental samples with low DNA templates.
 
-If you are not interested in the microbiome or environment conservation, we can still talk about craft beer and coffee!
+If you are not interested in the microbiome or environment conservation, we can talk about craft beer and coffee!
+
+Please click in HERE to see my complete CV. 
