@@ -8,7 +8,7 @@ header:
 ---
 
 ## Short Bio
-I am a 4th year Ph.D. student in the [Surette laboratory](https://www.surettelab.ca/) at McMaster University. 
+I am a 4th year Ph.D. candidate in the [Michael Surette](https://www.surettelab.ca/) laboratory at McMaster University. 
 My Ph.D. focuses on developing a culture-enriched metagenomic approach to study intestinal microbiota in healthy individuals 
 and patients with ulcerative colitis. I am also a part-time bioinformatics consultant for [eDNAtec](https://ednatec.com/), 
 an environmental genomic company located in St.John's, Canada.
