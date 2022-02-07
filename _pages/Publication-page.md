@@ -9,11 +9,11 @@ permalink: /publication/
 Culture-enriched metagenomics reveals microbial engraftment after FMT in patients with ulcerative colitis. 
 In Review (PDF available upon request)
 
-Whelan, F. J., Waddell, B., Syed, S. A., **Shekarriz, S.**, Rabin, H. R., Parkins, M. D., & Surette, M. G. (2020). Culture-enriched metagenomic sequencing enables in-depth profiling of the cystic fibrosis lung microbiota. Nature microbiology, 5(2), 379-390. (PDF)
+Whelan, F. J., Waddell, B., Syed, S. A., **Shekarriz, S.**, Rabin, H. R., Parkins, M. D., & Surette, M. G. (2020). Culture-enriched metagenomic sequencing enables in-depth profiling of the cystic fibrosis lung microbiota. Nature microbiology, 5(2), 379-390. ([PDF](/assets/pdfs/Whelan_et_al.pdf))
 
-Singer, G. A., **Shekarriz, S.**, McCarthy, A., Fahner, N., & Hajibabaei, M. (2020). The utility of a metagenomics approach for marine biomonitoring. BioRxiv. (PDF)
+Singer, G. A., **Shekarriz, S.**, McCarthy, A., Fahner, N., & Hajibabaei, M. (2020). The utility of a metagenomics approach for marine biomonitoring. BioRxiv. ([PDF](/assets/pdfs/Singer_et_al.pdf))
 
-Szamosi, J. C., Forbes, J. D., Copeland, J. K., Knox, N. C., **Shekarriz, S.**, Rossi, L., ...  & Bernstein, C. N. (2020). Assessment of inter-laboratory variation in the characterization and analysis of the mucosal microbiota in Crohns disease and ulcerative colitis. Frontiers in Microbiology, 11, 2028. (PDF)
+Szamosi, J. C., Forbes, J. D., Copeland, J. K., Knox, N. C., **Shekarriz, S.**, Rossi, L., ...  & Bernstein, C. N. (2020). Assessment of inter-laboratory variation in the characterization and analysis of the mucosal microbiota in Crohns disease and ulcerative colitis. Frontiers in Microbiology, 11, 2028. ([PDF](/assets/pdfs/Szamosi_et_al.pdf))
 
 **Shekarriz, S.** (2016). A new approach for simultaneous DNA-based monitoring of the polluted environments (MSc dissertation; PDF).
 
