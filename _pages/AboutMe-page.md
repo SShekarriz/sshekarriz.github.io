@@ -16,4 +16,4 @@ Besides my Ph.D. studies, I have been a part-time bioinformatics consultant for 
 
 If you are not interested in the microbiome or environment conservation, we can talk about craft beer and coffee!
 
-Please click [HERE](/assets/pdfs/sshekarriz_c.pdf) to see my complete CV. 
+Please click [HERE](/assets/pdfs/sshekarriz_cv.pdf) to see my complete CV. 
