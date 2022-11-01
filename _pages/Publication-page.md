@@ -5,6 +5,9 @@ title: "Publication"
 permalink: /publication/
 ---
 
+Man, E., **Shekarriz, S.**, Surette, M. G. (2022). Human gut metagenomes encode
+diverse GH156 sialidases. BioRxiv. (and in review)
+
 **Shekarriz, S.**, Whelan, F. J., Lau, J. T., Libertucci, J., Lee, C. H., Moayyedi, P., & Surette, M. G. (2022). 
 Culture-enriched metagenomics reveals microbial engraftment after FMT in patients with ulcerative colitis. 
 In Review (PDF available upon request)
